@@ -23,7 +23,7 @@ Current models based on deep learning for low-dose CT denoising rely heavily on 
 <p align="center">
   <img src="images/2.png" alt="Sparse Mask Embedded Conditional Guided Diffusion" width="800">
   <br>
-  <em>Figure 2: Sparse Mask Embedded Conditional Guided Diffusion. Probabilistically embedded sparse mask into the conditional guided diffusion process,allowing the model to capture global projection information while emphasizing the completion of missing regions.</em>
+  <em>Figure 2: Sparse Mask Embedded Conditional Guided Diffusion. Probabilistically embedded sparse mask into the conditional guided diffusion process,allowing the model to capture global projection information while emphasizing the completion of missing regions.</em>
 </p>
 
 <p align="center">
